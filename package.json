@@ -1,5 +1,5 @@
 {
-  "name": "pkgcloud-swisscom",
+  "name": "pkgcloud",
   "description": "An infrastructure-as-a-service agnostic cloud library for node.js (Swisscom)",
   "version": "0.9.6",
   "author": "Nodejitsu Inc <info@nodejitsu.com>",
