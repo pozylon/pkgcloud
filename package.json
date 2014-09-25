@@ -1,6 +1,6 @@
 {
-  "name": "pkgcloud",
-  "description": "An infrastructure-as-a-service agnostic cloud library for node.js",
+  "name": "pkgcloud-swisscom",
+  "description": "An infrastructure-as-a-service agnostic cloud library for node.js (Swisscom)",
   "version": "0.9.6",
   "author": "Nodejitsu Inc <info@nodejitsu.com>",
   "contributors": [
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/pkgcloud/pkgcloud.git"
+    "url": "http://github.com/pozylon/pkgcloud.git"
   },
   "keywords": [
     "cloud",
@@ -44,7 +44,8 @@
     "iriscouch",
     "mongohq",
     "openstack",
-    "redistogo"
+    "redistogo",
+    "swisscom"
   ],
   "dependencies": {
     "async": "0.9.x",
